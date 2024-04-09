@@ -7,15 +7,26 @@ assignees: ''
 
 ---
 
-<!--- Provide a general summary of the issue in the Title above -->
+<!--- 
+Summarize the feature or epic briefly, including its scope or the problem it addresses.
+-->
 
 ## Implementation details
-<!-- Enter description of implementation that may help dev team  -->
+<!--
+Detail the implementation approach, including technical design, architecture decisions, and dependencies. Link to design documents or diagrams if relevant.
+-->
 
 ## Testing details
-<!-- Enter description of special test-cases-->
+<!--
+Outline special test cases, edge cases, integration points.
+-->
 
 ## Acceptance Criteria
-<!-- Enter the conditions of satisfaction here. That is, the conditions that will satisfy the user/persona that the goal/benefit/value has been achieved -->
+<!--
+Define clear, measurable, and verifiable conditions to be met for the feature to be considered complete. Include functional and performance criteria.
+-->
 
 ## QA Details
+<!--
+Specify environments, configurations, or tools required for QA. Highlight potential problem areas or known issues to focus on during testing.
+-->
