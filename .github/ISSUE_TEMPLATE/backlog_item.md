@@ -17,3 +17,5 @@ assignees: ''
 
 ## Acceptance Criteria
 <!-- Enter the conditions of satisfaction here. That is, the conditions that will satisfy the user/persona that the goal/benefit/value has been achieved -->
+
+## QA Details
